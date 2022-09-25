@@ -1,10 +1,13 @@
-My name is Mohammad RezaTofighi
+Seyyed Mohammad RezaTofighi
 ===============================
 
-Developer
+Developer Flutter
 -----------------------------
 
-*   🤝  I'm open to collaborating on interesting projects as android developer
+*   I'm a Computer major
+*   I live in Qom
+*   I am interested in teamwork
+*   I am committed to the work I accept
 
 <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=smrtofighi&theme=bear"/>
 <p> 
