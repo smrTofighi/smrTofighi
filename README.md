@@ -7,17 +7,17 @@ Developer
 *   🤝  I'm open to collaborating on interesting projects as android developer
 
 <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=smrtofighi&theme=bear"/>
-
-<p>
-🎈 My Interests and Skills: 
+<p> 
+🎈 My Interests and Skills:
 </br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Kotlin-14354C?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank" />
 </p>
 <p>
 
-🎈 I'm on social networks:
+📣 Contacts Me:
     </br>
     <a href="mailto:mrtofxn@gmail.com?subject=Mail from Github Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
     <a href="https://www.linkedin.com/insmrtofighi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
