@@ -9,7 +9,6 @@ Developer Flutter
 *   I am interested in teamwork
 *   I am committed to the work I accept
 
-<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=smrtofighi&theme=bear"/>
 <p> 
 🎈 My Interests and Skills:
 </br>
@@ -30,6 +29,11 @@ Developer Flutter
     <a href="https://www.twitter.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/twitter-08a0e9.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.github.com/smrTofighi" target="_blank"><img src="https://img.shields.io/badge/github-1d202d.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<div>
+<img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=smrtofighi&theme=bear"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrtofighi&layout=compact&langs_count=7&theme=cobalt"/>
+
+</div>
 
 
  
