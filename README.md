@@ -4,19 +4,31 @@ I'm Mohammad. I have been interested in programming since I was a teenager. i st
 hope to better days :)
 </p>
 <p> 
-🎈 My Interests and Skills:
+🎈 Skills and Favorites:
 </br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Kotlin-D84456?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Java-FB9820?style=for-the-badge&logo=java&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/CSS3-246DE4?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Java Script-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" target="_blank" />
+</p>
+<p> 
+💼 Tools:
+</br>
+<img src="https://img.shields.io/badge/VSCode-007BD7?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Android Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/PyCharm-14354C?style=for-the-badge&logo=pycharm&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
 </p>
 <p>
 
 📣 Contacts Me:
     </br>
     <a href="mailto:mrtofxn@gmail.com?subject=Mail from Github Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-    <a href="https://www.t.me/smrtofighi/" target="_blank"><img src="https://img.shields.io/badge/telegram-0077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://www.t.me/smrtofighi/" target="_blank"><img src="https://img.shields.io/badge/telegram-00BBCC.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
