@@ -1,14 +1,7 @@
-Seyyed Mohammad RezaTofighi
-===============================
-
-Developer Flutter
------------------------------
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left"> 
-*   I'm a Computer major
-*   I live in Qom
-*   I am interested in teamwork
-*   I am committed to the work I accept
+I'm Mohammad. I have been interested in programming since I was a teenager. i started to learning python language on 2019 year becuase it was very easy and powerful. For a short time, I had been busy learning C# and Java.then i wanted to learn Django freamwork that i met Flutter. After that, I became very interested in this framework And now I try to improve my skills every day.
+hope to better days :)
 </p>
 <p> 
 🎈 My Interests and Skills:
