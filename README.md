@@ -22,7 +22,7 @@ Developer Flutter
 📣 Contacts Me:
     </br>
     <a href="mailto:mrtofxn@gmail.com?subject=Mail from Github Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-    <a href="https://www.linkedin.com/insmrtofighi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.t.me/smrtofighi/" target="_blank"><img src="https://img.shields.io/badge/telegram-0077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
