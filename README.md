@@ -3,12 +3,13 @@ Seyyed Mohammad RezaTofighi
 
 Developer Flutter
 -----------------------------
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+<p align="left"> 
 *   I'm a Computer major
 *   I live in Qom
 *   I am interested in teamwork
 *   I am committed to the work I accept
-
+</p>
 <p> 
 🎈 My Interests and Skills:
 </br>
