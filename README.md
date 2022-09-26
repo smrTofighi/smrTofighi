@@ -25,7 +25,7 @@ Developer Flutter
     <a href="https://www.linkedin.com/insmrtofighi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.twitter.com/smrtofighi" target="_blank"><img src="https://img.shields.io/badge/twitter-08a0e9.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.github.com/smrTofighi" target="_blank"><img src="https://img.shields.io/badge/github-1d202d.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
