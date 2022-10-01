@@ -14,7 +14,6 @@ hope to better days :)
 <img src="https://img.shields.io/badge/Java-FB9820?style=for-the-badge&logo=java&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/CSS3-246DE4?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Java Script-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white" target="_blank" />
 </p>
 <p> 
 💼 Tools:
