@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left"> 
+💫 About Me:
 I'm Mohammad. I have been interested in programming since I was a teenager. ] started to learning python language on 2019 year becuase it was very easy and powerful. For a short time, I had been busy learning C# and Java. Then i wanted to learn Django freamwork that i met Flutter. After that, I became very interested in this framework. I have learned some HTML, CSS, and JavaScript and would like to master them.
     Now I try to improve my skills every day.
 hope to better days :)
 </p>
+
 <p> 
 🎈 Skills and Favorites:
 </br>
@@ -20,8 +22,9 @@ hope to better days :)
 </br>
 <img src="https://img.shields.io/badge/VSCode-007BD7?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Android Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/PyCharm-14354C?style=for-the-badge&logo=pycharm&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/FireBase-14354C?style=for-the-badge&logo=firebase&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/GitHub-1d202d?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
 </p>
 <p>
 
