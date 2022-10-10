@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left"> 
-💫 About Me:
 I'm Mohammad. I have been interested in programming since I was a teenager. ] started to learning python language on 2019 year becuase it was very easy and powerful. For a short time, I had been busy learning C# and Java. Then i wanted to learn Django freamwork that i met Flutter. After that, I became very interested in this framework. I have learned some HTML, CSS, and JavaScript and would like to master them.
     Now I try to improve my skills every day.
 hope to better days :)
