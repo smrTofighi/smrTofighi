@@ -11,10 +11,8 @@ hope to better days :)
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Kotlin-D84456?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/Java-FB9820?style=for-the-badge&logo=java&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
-<img src="https://img.shields.io/badge/CSS3-246DE4?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
+
+
 </p>
 <p> 
 💼 Tools:
