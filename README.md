@@ -11,7 +11,8 @@ I've been learning Flutter since 2022, alongside using JavaScript and the Expres
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" />
-    <img src="https://img.shields.io/badge/Express-0C7C59?style=for-the-badge&logo=express&logoColor=black" target="_blank" />
+<img src="https://img.shields.io/badge/React JS-198BD7?style=for-the-badge&logo=react&logoColor=black" target="_blank" />
+<img src="https://img.shields.io/badge/Express-0C7C59?style=for-the-badge&logo=express&logoColor=black" target="_blank" />
 <img src="https://img.shields.io/badge/Python-FFD639?style=for-the-badge&logo=python&logoColor=black" target="_blank" />
 </p>
 
